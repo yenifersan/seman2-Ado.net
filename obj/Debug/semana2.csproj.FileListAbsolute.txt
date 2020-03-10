@@ -1,0 +1,9 @@
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\bin\Debug\semana2.exe.config
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\bin\Debug\semana2.exe
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\bin\Debug\semana2.pdb
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.csprojAssemblyReference.cache
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.FrmPedidosDetalle.resources
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.Properties.Resources.resources
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.csproj.GenerateResource.cache
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.exe
+C:\Users\Yenifer\Documents\6to_CICLO\Desarrollo_De_App_Avan\semana2\semana2\semana2\obj\Debug\semana2.pdb
